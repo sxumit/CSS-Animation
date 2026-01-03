@@ -1,1 +1,1 @@
-Just a basic CSS Animation
+Learnt a CSS Animation
